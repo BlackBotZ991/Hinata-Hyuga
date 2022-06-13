@@ -13,7 +13,7 @@
 
   // Edit Sesuai Kemauanmu
   global.autoReadGc = true // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
-  global.autoReadAll = false // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
+  global.autoReadAll = true // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = true // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
   global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
   global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
@@ -23,12 +23,12 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
+  global.ownername = '𝑶𝒘𝒏𝒆𝒓 𝑩𝒍𝒂𝒄𝒌𝑯𝒐𝒔𝒕 - 𝑴𝑫 𖦹𖣘' // Ganti Jadi Namamu
+  global.owner = ['6282143349069','6282143349069','6282143349069'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6282143349069' // Owner Utama Istilahnya
+  global.botname = '𝑩𝒍𝒂𝒄𝒌𝑯𝒐𝒔𝒕 - 𝑴𝑫 𖦹𖣘' // Ganti Jadi Nama Botmu
+  global.packname = '𝑩𝒍𝒂𝒄𝒌𝑯𝒐𝒔𝒕 - 𝑴𝑫 𖦹𖣘' // Sticker Weem
+  global.author = '𝑩𝒍𝒂𝒄𝒌𝑯𝒐𝒔𝒕 - 𝑴𝑫 𖦹𖣘' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
@@ -67,7 +67,7 @@
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
-  global.thumb = fs.readFileSync('./media/hinata.jpg')
+  global.thumb = fs.readFileSync('./media/Jojo2.jpg')
     
   // Ini Gausah Diubah
   let file = require.resolve(__filename)
