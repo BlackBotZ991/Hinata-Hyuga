@@ -603,6 +603,11 @@ Tetap Patuhi Rules Agar Tetap Bisa Menikmati Bot 😁
 // Donasi
   exports.donasi = () => {
 	return`*TERIMA KASIH SUDAH MAU DONASI 🤗*
+	
+𝑫𝒐𝒏𝒂𝒕𝒆 𝑭𝒐𝒓 𝑩𝒍𝒂𝒄𝒌𝑯𝒐𝒔𝒕 - 𝑴𝑫 𖦹𖣘
+
+𝑫𝒂𝒏𝒂
+082143349069	
 
 *Q.S Az-Zalzalah Ayat 7 :*
 
@@ -620,10 +625,10 @@ zarrah, niscaya dia akan melihat
   return`
 *SEWA BOT 💫*
 
-📆 1 Minggu : Rp. 10.000,00
-📆 1 Bulan : Rp. 20.000,00
-📆 1 Tahun : Rp. 100.000,00
-📆 Permanen : Buat Bot Sendiri!!!
+📆 1 Minggu : Rp. 5.000,00
+📆 1 Bulan : Rp. 7.000,00
+📆 1 Tahun : Rp. 10.000,00
+📆 Permanen : 15.000,00
 
 *🏦 PAYMENT :*
 - Gopay
@@ -1214,15 +1219,15 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
   // Thanks To
   exports.sthanksto= () => {
   return`  *🙏 Thanks To*
-  ✎ Dika Ardnt
-  ✎ Fatih Arridho
-  ✎ Nurutomo
-  ✎ Mhankbarbar
-  ✎ Zeeone Ofc
-  ✎ Ryuka Team
-  ✎ Deff
-  ✎ Yoga
-  ✎ Riy
+  ✎ 𝑩𝒍𝒂𝒄𝒌 𝑯𝒐𝒔𝒕𝒊𝒏𝒈
+  ✎ 𝑩𝒍𝒂𝒄𝒌 𝑯𝒐𝒔𝒕𝒊𝒏𝒈
+  ✎ 𝑩𝒍𝒂𝒄𝒌 𝑯𝒐𝒔𝒕𝒊𝒏𝒈
+  ✎ 𝑩𝒍𝒂𝒄𝒌 𝑯𝒐𝒔𝒕𝒊𝒏𝒈
+  ✎ 𝑩𝒍𝒂𝒄𝒌 𝑯𝒐𝒔𝒕𝒊𝒏𝒈
+  ✎ 𝑩𝒍𝒂𝒄𝒌 𝑯𝒐𝒔𝒕𝒊𝒏𝒈
+  ✎ 𝑩𝒍𝒂𝒄𝒌 𝑯𝒐𝒔𝒕𝒊𝒏𝒈
+  ✎ 𝑩𝒍𝒂𝒄𝒌 𝑯𝒐𝒔𝒕𝒊𝒏𝒈
+  ✎ 𝑰𝑵𝑻𝑰𝑵𝒀𝑨 𝑩𝒍𝒂𝒄𝒌 𝑯𝒐𝒔𝒕𝒊𝒏𝒈
   `
   }
   
